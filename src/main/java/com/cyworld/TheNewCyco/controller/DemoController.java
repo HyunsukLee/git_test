@@ -10,4 +10,9 @@ public class DemoController {
 	public String helloworld() {
 		return "hello";
 	}
+
+	@RequestMapping("/hello2")
+	public String helloworld2(){
+		return "hello2";
+	}
 }
