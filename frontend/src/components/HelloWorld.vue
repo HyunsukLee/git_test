@@ -14,16 +14,14 @@
       <li>
         <a
           href="https://forum.vuejs.org"
-          target="_blank"
-        >
+          target="_blank">
           Forum
         </a>
       </li>
       <li>
         <a
           href="https://chat.vuejs.org"
-          target="_blank"
-        >
+          target="_blank">
           Community Chat
         </a>
       </li>
